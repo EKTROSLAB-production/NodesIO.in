@@ -1,0 +1,11 @@
+{
+  "[project]/app/dashboard/(components)/MyMap.jsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/app/dashboard/(components)/MyMap.jsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_172047d2._.js",
+      "static/chunks/app_dashboard_(components)_MyMap_jsx_5607e425._.js",
+      "static/chunks/node_modules_leaflet_dist_leaflet_88e19fd3.css",
+      "static/chunks/app_dashboard_(components)_MyMap_jsx_bf373fb8._.js"
+    ]
+  }
+}

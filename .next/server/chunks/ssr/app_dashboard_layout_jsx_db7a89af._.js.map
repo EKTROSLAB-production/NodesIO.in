@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/macintosh/01_Work_Space/04_Coding_HUB/mi-dit/app/dashboard/layout.jsx"],"sourcesContent":["import Sidebar from \"../Sidebar.jsx/page\";\n\n\n\nexport const metadata = {\n  title: 'Dashboard',\n};\n\nexport default function DashboardLayout({ children }) {\n  return (\n    <div className=\"flex\">\n      <Sidebar></Sidebar>\n      <main className=\"flex-1 p-4\">\n        {children}\n      </main>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAIO,MAAM,WAAW;IACtB,OAAO;AACT;AAEe,SAAS,gBAAgB,EAAE,QAAQ,EAAE;IAClD,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC,8HAAA,CAAA,UAAO;;;;;0BACR,8OAAC;gBAAK,WAAU;0BACb;;;;;;;;;;;;AAIT","debugId":null}}]
-}

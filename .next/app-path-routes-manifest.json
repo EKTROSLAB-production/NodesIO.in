@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/Components/Card/page": "/Components/Card",
+  "/Components/navbar/page": "/Components/navbar",
+  "/Components/section3/page": "/Components/section3",
+  "/Components/Testiomonials/page": "/Components/Testiomonials",
+  "/Components/footer/page": "/Components/footer",
+  "/page": "/",
+  "/dashboard/bins/page": "/dashboard/bins",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/dashboard/notifications/page": "/dashboard/notifications",
+  "/dashboard/driver/page": "/dashboard/driver",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/users/page": "/dashboard/users",
+  "/dashboard/routes/page": "/dashboard/routes"
+}

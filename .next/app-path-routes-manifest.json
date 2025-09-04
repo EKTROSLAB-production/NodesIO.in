@@ -1,19 +1,19 @@
 {
   "/_not-found/page": "/_not-found",
   "/favicon.ico/route": "/favicon.ico",
-  "/blog/[slug]/page": "/blog/[slug]",
-  "/careers/page": "/careers",
-  "/blog/page": "/blog",
   "/about/page": "/about",
+  "/blog/page": "/blog",
+  "/careers/page": "/careers",
+  "/blog/[slug]/page": "/blog/[slug]",
   "/contact/page": "/contact",
+  "/page": "/",
   "/page-demo/page": "/page-demo",
   "/services/page": "/services",
-  "/page": "/",
   "/dashboard/bins/page": "/dashboard/bins",
-  "/dashboard/driver/page": "/dashboard/driver",
-  "/dashboard/users/page": "/dashboard/users",
-  "/dashboard/routes/page": "/dashboard/routes",
-  "/dashboard/settings/page": "/dashboard/settings",
   "/dashboard/notifications/page": "/dashboard/notifications",
-  "/dashboard/page": "/dashboard"
+  "/dashboard/page": "/dashboard",
+  "/dashboard/users/page": "/dashboard/users",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/dashboard/routes/page": "/dashboard/routes",
+  "/dashboard/driver/page": "/dashboard/driver"
 }

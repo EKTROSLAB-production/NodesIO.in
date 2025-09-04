@@ -982,6 +982,10 @@ img, video {
   border-width: 1px;
 }
 
+.border-2 {
+  border-width: 2px;
+}
+
 .border-b {
   border-bottom-width: 1px;
 }
@@ -1032,6 +1036,11 @@ img, video {
 .border-green-200 {
   --tw-border-opacity: 1;
   border-color: rgba(187, 247, 208, var(--tw-border-opacity, 1));
+}
+
+.border-green-600 {
+  --tw-border-opacity: 1;
+  border-color: rgba(22, 163, 74, var(--tw-border-opacity, 1));
 }
 
 .border-red-200 {
@@ -1746,6 +1755,11 @@ html, body {
 .hover\:bg-gray-50:hover {
   --tw-bg-opacity: 1;
   background-color: rgba(249, 250, 251, var(--tw-bg-opacity, 1));
+}
+
+.hover\:bg-green-50:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgba(240, 253, 244, var(--tw-bg-opacity, 1));
 }
 
 .hover\:bg-green-600:hover {

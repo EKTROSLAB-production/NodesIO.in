@@ -403,19 +403,92 @@ const Body = ()=>{
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6",
-                                            children: "Our Dream is Global Waste Management Transformation"
-                                        }, void 0, false, {
+                                            className: "text-4xl md:text-5xl lg:text-6xl font-bold mb-6",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-gray-900",
+                                                    children: "Smart Waste"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 98,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 98,
+                                                    columnNumber: 67
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-gray-900",
+                                                    children: "Management for a"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 99,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 99,
+                                                    columnNumber: 72
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-green-600",
+                                                    children: "Cleaner"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 100,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 100,
+                                                    columnNumber: 64
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-blue-600",
+                                                    children: "Future"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 101,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
                                             lineNumber: 97,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-lg text-gray-700 mb-8",
-                                            children: "NodesIO was founded by a passionate team of engineers and sustainability advocates. United by their belief in the power of technology to create cleaner, more efficient cities, they embarked on a journey to build innovative IoT solutions for waste management. With relentless dedication, they gathered a team of experts and launched this platform, creating a global community of forward-thinking partners and clients."
+                                            children: "Our IoT-powered waste management solution optimizes collection routes, reduces operational costs, and helps create more sustainable cities."
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 100,
+                                            lineNumber: 103,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "flex flex-wrap gap-4 mb-8",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    className: "bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-lg font-medium transition-all hover:shadow-lg",
+                                                    children: "Get Started"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 107,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    className: "border-2 border-green-600 text-green-600 hover:bg-green-50 px-8 py-3 rounded-lg font-medium transition-all",
+                                                    children: "Learn More"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/app/Components/page/Body.tsx",
+                                                    lineNumber: 110,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/app/Components/page/Body.tsx",
+                                            lineNumber: 106,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -429,7 +502,7 @@ const Body = ()=>{
                                                             children: "1+"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 105,
+                                                            lineNumber: 116,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -437,13 +510,13 @@ const Body = ()=>{
                                                             children: "Years Experience"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 106,
+                                                            lineNumber: 117,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 115,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -454,7 +527,7 @@ const Body = ()=>{
                                                             children: "0+"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 109,
+                                                            lineNumber: 120,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -462,13 +535,13 @@ const Body = ()=>{
                                                             children: "Projects"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 110,
+                                                            lineNumber: 121,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                                    lineNumber: 108,
+                                                    lineNumber: 119,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -479,7 +552,7 @@ const Body = ()=>{
                                                             children: "0+"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 113,
+                                                            lineNumber: 124,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -487,13 +560,13 @@ const Body = ()=>{
                                                             children: "Partners"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 114,
+                                                            lineNumber: 125,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                                    lineNumber: 112,
+                                                    lineNumber: 123,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -504,7 +577,7 @@ const Body = ()=>{
                                                             children: "0M+"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 117,
+                                                            lineNumber: 128,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -512,19 +585,19 @@ const Body = ()=>{
                                                             children: "Bins Monitored"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                                            lineNumber: 118,
+                                                            lineNumber: 129,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                                    lineNumber: 116,
+                                                    lineNumber: 127,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 103,
+                                            lineNumber: 114,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
@@ -557,17 +630,17 @@ const Body = ()=>{
                                             priority: true
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 129,
+                                            lineNumber: 140,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/app/Components/page/Body.tsx",
-                                        lineNumber: 128,
+                                        lineNumber: 139,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 122,
+                                    lineNumber: 133,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
@@ -609,7 +682,7 @@ const Body = ()=>{
                                         children: stat.value
                                     }, void 0, false, {
                                         fileName: "[project]/app/Components/page/Body.tsx",
-                                        lineNumber: 158,
+                                        lineNumber: 169,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -617,28 +690,28 @@ const Body = ()=>{
                                         children: stat.label
                                     }, void 0, false, {
                                         fileName: "[project]/app/Components/page/Body.tsx",
-                                        lineNumber: 159,
+                                        lineNumber: 170,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, index, true, {
                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                lineNumber: 153,
+                                lineNumber: 164,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0)))
                     }, void 0, false, {
                         fileName: "[project]/app/Components/page/Body.tsx",
-                        lineNumber: 145,
+                        lineNumber: 156,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/app/Components/page/Body.tsx",
-                    lineNumber: 144,
+                    lineNumber: 155,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/Components/page/Body.tsx",
-                lineNumber: 143,
+                lineNumber: 154,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -654,7 +727,7 @@ const Body = ()=>{
                                     children: "Smart Features for Smart Cities"
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 170,
+                                    lineNumber: 181,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -662,13 +735,13 @@ const Body = ()=>{
                                     children: "Our comprehensive waste management solution combines cutting-edge IoT technology with powerful software to transform how cities handle waste."
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 171,
+                                    lineNumber: 182,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/Components/page/Body.tsx",
-                            lineNumber: 169,
+                            lineNumber: 180,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -692,7 +765,7 @@ const Body = ()=>{
                                             children: feature.icon
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 190,
+                                            lineNumber: 201,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -700,7 +773,7 @@ const Body = ()=>{
                                             children: feature.title
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 193,
+                                            lineNumber: 204,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -708,29 +781,29 @@ const Body = ()=>{
                                             children: feature.description
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 194,
+                                            lineNumber: 205,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, index, true, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 184,
+                                    lineNumber: 195,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/app/Components/page/Body.tsx",
-                            lineNumber: 176,
+                            lineNumber: 187,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/Components/page/Body.tsx",
-                    lineNumber: 168,
+                    lineNumber: 179,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/Components/page/Body.tsx",
-                lineNumber: 167,
+                lineNumber: 178,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -746,7 +819,7 @@ const Body = ()=>{
                                     children: "How It Works"
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 205,
+                                    lineNumber: 216,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -754,13 +827,13 @@ const Body = ()=>{
                                     children: "Our smart waste management system uses a simple but effective process to optimize waste collection."
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 206,
+                                    lineNumber: 217,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/Components/page/Body.tsx",
-                            lineNumber: 204,
+                            lineNumber: 215,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -790,12 +863,12 @@ const Body = ()=>{
                                                 children: "1"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                lineNumber: 220,
+                                                lineNumber: 231,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 219,
+                                            lineNumber: 230,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -803,7 +876,7 @@ const Body = ()=>{
                                             children: "Smart Sensors"
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 222,
+                                            lineNumber: 233,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -811,13 +884,13 @@ const Body = ()=>{
                                             children: "IoT sensors monitor fill levels and environmental conditions in real-time."
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 223,
+                                            lineNumber: 234,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 212,
+                                    lineNumber: 223,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -845,12 +918,12 @@ const Body = ()=>{
                                                 children: "2"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                lineNumber: 234,
+                                                lineNumber: 245,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 233,
+                                            lineNumber: 244,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -858,7 +931,7 @@ const Body = ()=>{
                                             children: "Data Analysis"
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 236,
+                                            lineNumber: 247,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -866,13 +939,13 @@ const Body = ()=>{
                                             children: "Our AI algorithms process data to optimize collection routes and schedules."
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 237,
+                                            lineNumber: 248,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 226,
+                                    lineNumber: 237,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -900,12 +973,12 @@ const Body = ()=>{
                                                 children: "3"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                lineNumber: 248,
+                                                lineNumber: 259,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 247,
+                                            lineNumber: 258,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -913,7 +986,7 @@ const Body = ()=>{
                                             children: "Smart Collection"
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 250,
+                                            lineNumber: 261,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -921,30 +994,30 @@ const Body = ()=>{
                                             children: "Collection teams receive optimized routes and real-time updates."
                                         }, void 0, false, {
                                             fileName: "[project]/app/Components/page/Body.tsx",
-                                            lineNumber: 251,
+                                            lineNumber: 262,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 240,
+                                    lineNumber: 251,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/Components/page/Body.tsx",
-                            lineNumber: 211,
+                            lineNumber: 222,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/Components/page/Body.tsx",
-                    lineNumber: 203,
+                    lineNumber: 214,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/Components/page/Body.tsx",
-                lineNumber: 202,
+                lineNumber: 213,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -960,7 +1033,7 @@ const Body = ()=>{
                                     children: "What Our Clients Say"
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 261,
+                                    lineNumber: 272,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -968,13 +1041,13 @@ const Body = ()=>{
                                     children: "Hear from organizations that have transformed their waste management operations with our smart solution."
                                 }, void 0, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 262,
+                                    lineNumber: 273,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/Components/page/Body.tsx",
-                            lineNumber: 260,
+                            lineNumber: 271,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1006,7 +1079,7 @@ const Body = ()=>{
                                                         className: "h-12 w-12 rounded-full bg-gray-200 mr-4"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/Components/page/Body.tsx",
-                                                        lineNumber: 279,
+                                                        lineNumber: 290,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1016,7 +1089,7 @@ const Body = ()=>{
                                                                 children: testimonial.name
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                                lineNumber: 281,
+                                                                lineNumber: 292,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1028,19 +1101,19 @@ const Body = ()=>{
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                                lineNumber: 282,
+                                                                lineNumber: 293,
                                                                 columnNumber: 23
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/Components/page/Body.tsx",
-                                                        lineNumber: 280,
+                                                        lineNumber: 291,
                                                         columnNumber: 21
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                lineNumber: 278,
+                                                lineNumber: 289,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1052,34 +1125,34 @@ const Body = ()=>{
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                                lineNumber: 285,
+                                                lineNumber: 296,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/Components/page/Body.tsx",
-                                        lineNumber: 277,
+                                        lineNumber: 288,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, index, false, {
                                     fileName: "[project]/app/Components/page/Body.tsx",
-                                    lineNumber: 269,
+                                    lineNumber: 280,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/app/Components/page/Body.tsx",
-                            lineNumber: 267,
+                            lineNumber: 278,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/Components/page/Body.tsx",
-                    lineNumber: 259,
+                    lineNumber: 270,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/Components/page/Body.tsx",
-                lineNumber: 258,
+                lineNumber: 269,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1108,7 +1181,7 @@ const Body = ()=>{
                                 children: "Ready to Transform Your Waste Management?"
                             }, void 0, false, {
                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                lineNumber: 297,
+                                lineNumber: 308,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -1129,7 +1202,7 @@ const Body = ()=>{
                                 children: "Join hundreds of organizations already benefiting from our smart waste management solution."
                             }, void 0, false, {
                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                lineNumber: 306,
+                                lineNumber: 317,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].button, {
@@ -1158,23 +1231,23 @@ const Body = ()=>{
                                 children: "Schedule a Demo"
                             }, void 0, false, {
                                 fileName: "[project]/app/Components/page/Body.tsx",
-                                lineNumber: 315,
+                                lineNumber: 326,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/Components/page/Body.tsx",
-                        lineNumber: 296,
+                        lineNumber: 307,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/app/Components/page/Body.tsx",
-                    lineNumber: 295,
+                    lineNumber: 306,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/app/Components/page/Body.tsx",
-                lineNumber: 294,
+                lineNumber: 305,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

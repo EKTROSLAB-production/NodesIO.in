@@ -1,17 +1,19 @@
 {
   "/_not-found/page": "/_not-found",
   "/favicon.ico/route": "/favicon.ico",
-  "/Components/Card/page": "/Components/Card",
-  "/Components/navbar/page": "/Components/navbar",
-  "/Components/section3/page": "/Components/section3",
-  "/Components/Testiomonials/page": "/Components/Testiomonials",
-  "/Components/footer/page": "/Components/footer",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/careers/page": "/careers",
+  "/blog/page": "/blog",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/page-demo/page": "/page-demo",
+  "/services/page": "/services",
   "/page": "/",
   "/dashboard/bins/page": "/dashboard/bins",
+  "/dashboard/driver/page": "/dashboard/driver",
+  "/dashboard/users/page": "/dashboard/users",
+  "/dashboard/routes/page": "/dashboard/routes",
   "/dashboard/settings/page": "/dashboard/settings",
   "/dashboard/notifications/page": "/dashboard/notifications",
-  "/dashboard/driver/page": "/dashboard/driver",
-  "/dashboard/page": "/dashboard",
-  "/dashboard/users/page": "/dashboard/users",
-  "/dashboard/routes/page": "/dashboard/routes"
+  "/dashboard/page": "/dashboard"
 }

@@ -1,19 +1,5 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/blog/page": "app/blog/page.js",
-  "/careers/page": "app/careers/page.js",
-  "/about/page": "app/about/page.js",
-  "/blog/[slug]/page": "app/blog/[slug]/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/page": "app/page.js",
-  "/page-demo/page": "app/page-demo/page.js",
-  "/services/page": "app/services/page.js",
-  "/dashboard/driver/page": "app/dashboard/driver/page.js",
-  "/dashboard/notifications/page": "app/dashboard/notifications/page.js",
-  "/dashboard/bins/page": "app/dashboard/bins/page.js",
-  "/dashboard/routes/page": "app/dashboard/routes/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/dashboard/settings/page": "app/dashboard/settings/page.js",
-  "/dashboard/users/page": "app/dashboard/users/page.js"
+  "/page": "app/page.js"
 }
